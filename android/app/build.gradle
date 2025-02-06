@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.checkout_payment"
+    namespace 'com.example.checkout_payment'
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
