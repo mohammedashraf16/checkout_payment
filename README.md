@@ -1,16 +1,14 @@
 # checkout_payment
 
-A new Flutter project.
+![Image](https://github.com/user-attachments/assets/7331e19c-e630-4e09-a52e-e0fc0bf5622e)
 
 ## Getting Started
+I've successfully integrated Stripe's card payment system and PayPal payment system into my Flutter application! This integration enables a seamless and secure payment experience for users, enhancing the app's functionality and user satisfaction. 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##💡 Throughout the project, you’ll find:
+   ▪️ Effective state management using Cubit
+   ▪️ A straightforward approach to dependency injection with Get_it
+   ▪️ The use of Dio for handling HTTP requests
+   ▪️ A clear implementation of Stripe Payment Intents
+   ▪️ Simple integration of the flutter_stripe package
+   ▪️ A basic setup of the flutter_paypal_payment package
